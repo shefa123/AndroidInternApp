@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EDP Academy</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="warning_msg1">Username and password shouldn\'t be empty</string>
+    <string name="login_failed">Login failed. Try with username user and password 123</string>
+    <string name="reg_click">Register link clicked.</string>
+    <string name="help_click">Help link clicked.</string>
+</resources>
